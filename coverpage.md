@@ -1,5 +1,5 @@
 
-[![alt](https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/text-soft.svg)](?id=main)
+[![alt](https://raw.githubusercontent.com/i11n/.github/main/img/brand/text-stroke-64.svg)](?id=main)
 
 # Documentation
 
