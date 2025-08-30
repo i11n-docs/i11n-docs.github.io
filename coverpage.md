@@ -1,5 +1,5 @@
 
-[![alt](https://raw.githubusercontent.com/i11n/.github/main/img/brand/text-stroke-64.svg)](?id=main)
+[![alt](https://docs.i11n.io/assets/img/logos/png/128/brand/text/stroked.v1.png)](?id=main)
 
 # Documentation
 
